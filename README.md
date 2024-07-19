@@ -48,7 +48,7 @@ This repository contains a Python script that automates task assignments using S
     username = "yt@in.com"
     password = ""
     project_link = ""
-    ids_paths="user_ids.json"
+    ids_paths="task_data.json"
     chrome_driver="/home/TokolaBOT/chromedriver-linux64/chromedriver"
     ```
 
